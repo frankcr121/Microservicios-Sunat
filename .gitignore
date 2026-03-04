@@ -1,0 +1,12 @@
+# Java y Maven
+/target/
+*.jar
+*.war
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Logs y Temporales
+*.log
+.mvn/wrapper/maven-wrapper.jar
